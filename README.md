@@ -1,7 +1,7 @@
 # CSc-8851-Deep-Learning-MajorProject
-CSc 8851: Deep Learning Fall 2024 Final Project Code
+CSc 8851: Deep Learning, Fall 2024, Final Project Code
 
-# Vision-Language VAE for Medical Image Captioning
+# VL-VAE MedICaT :: Vision-Language Variational Autoencoder based Medical Image Captioning Transformer
 
 ## Overview
 This repository implements a Vision-Language Variational Autoencoder (VL-VAE) tailored for medical image captioning. The model integrates multi-modal data (images and text) using advanced neural network techniques, providing a framework for generating meaningful captions for medical images while maintaining latent feature alignment.
