@@ -120,7 +120,7 @@ python VL-VAE_MedICaT.py --evaluate
 
   Note: Equal contribution by both.
 
-## Authors and Acknowledgments
+## Acknowledgments
 Developed by leveraging state-of-the-art techniques in AI and medical image analysis. Special thanks to the open-source community for pre-trained models and evaluation tools.
 
 ## License
